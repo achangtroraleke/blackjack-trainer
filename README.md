@@ -102,3 +102,4 @@ src/
 `npm test` runs Vitest unit tests for hand values, Hi-Lo counting and true count, strategy and deviation lookups, the
 probability engine, the game reducer (payouts, splits, doubles, insurance, surrender), storage helpers, and an
 end-to-end app test against a mocked Deck of Cards API.
+# blackjack-trainer
